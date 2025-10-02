@@ -1,0 +1,10 @@
+# Configurations
+/.git
+/.github
+/.vscode
+/.editorconfig
+/.gitignore
+
+# Files
+/LICENSE
+/README.md
